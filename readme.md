@@ -9,6 +9,7 @@ The temperature range is based on recommendations of the World Health Organisati
 If a temperature below 18°C is recorded on the PCT2075 a blue LED is switched on. If it goes above 23°C the red LED switches on. A nice simple indication. The addition of a screen was added to display the current temperature.
 
 ![Pico in action showing 12.5°C](image1.jpg =600x800)
+<img src="image1.jpg" alt="Pico in action showing 12.5°C" width="600" height="800">
 
 A nice simple project
 
